@@ -1,0 +1,22 @@
+{
+  "name": "slugify",
+  "version": "1.0.0",
+  "description": "Converts even non-ASCII strings to nice slug",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chameleonui/slugify"
+  },
+  "author": "Tomas Kuba",
+  "license": "MIT"
+}

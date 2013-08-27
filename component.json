@@ -1,0 +1,14 @@
+{
+  "name": "slugify",
+  "repo": "chameleoniu/slugify",
+  "description": "Converts even non-ASCII strings to nice slug",
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
