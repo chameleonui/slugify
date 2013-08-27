@@ -11,7 +11,7 @@
 
 ## API
 
-### sulify(string):string
+### sulgify(string):string
 
 Returns slugifyed string e.g. ` s€0Me st#ř_În*g ` became `s0me-str_ing`
 
